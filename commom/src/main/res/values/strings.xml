@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">commom</string>
+    <string name="load_error">加载失败</string>
+    <string name="reload">重新加载</string>
+</resources>
